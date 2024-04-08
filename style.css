@@ -1,0 +1,100 @@
+h1 {
+    font-size: 50px;
+    font-family: bookerly, Georgia, 'Times New Roman', Times, serif;
+    color: rgb(54, 54, 54);
+    text-align: center;
+}
+
+.subheader {
+    font-family: bookerly, Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.super {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.des {
+    margin-top: 5px;
+    margin-top: 5px;
+    font-family: open sans;
+    font-weight: 100;
+    font-size: 22px;
+}
+
+.main-list {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    max-width: 800px;
+
+}
+
+.home-button {
+    padding: 8px;
+    margin: 0 auto;
+    background-color: rgb(197, 255, 216);
+    margin-left: 8px;
+}
+
+.home-button:hover {
+    background-color: rgb(147, 255, 183);
+}
+
+.list-panel {
+    margin-bottom: 50px;
+}
+
+.header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 15px;
+}
+
+li {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+li::marker {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.ass-list {
+    background-color: transparent;
+}
+
+h3.ass-list {
+    margin-top: 0px;
+}
+
+.ass {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(197, 255, 216);
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+* {
+    background-color: rgb(255, 255, 255);
+}
+
+a {
+    background-color: transparent;
+}
